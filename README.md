@@ -15,8 +15,7 @@ To generate a functional component in VSCode: <em>rcc</em>
 &nbsp;🌀&nbsp; Functional Component - good for simple content without logic behind it <br>
 &nbsp;🌀&nbsp; Class-Based Component - good for everything else
 
-<br>
-<br>
+
 <ul>
  <li>Easier code organization</li>
  <li>State - &nbsp;&nbsp; easier to handle user input</li>
