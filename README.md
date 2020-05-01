@@ -2,15 +2,13 @@
 
 <img src="https://sunscrapers.com/blog/wp-content/uploads/2018/11/1__DOHv30w-0eI-Ysz5U47Yg.png" height=500 width=900>
 
-<h2>🌀 Components</h2>
+<h2>🌀 Class-Based Components</h2>
 <br>
  <img src="https://www.techdiagonal.com/wp-content/uploads/2019/08/React-components-blog-image.jpg" height=350 width=350> 
 <br>
 
-<h3>Three Tenets of Components</h3>
-&nbsp; 🌀 &nbsp; <strong>Nesting</strong> - a component can be shown inside of another <br>
-&nbsp; 🌀 &nbsp; <strong>Reusability</strong> - we want to make components that can easily be reused through out our application <br>
-&nbsp; 🌀 &nbsp; <strong>Configuration</strong> - we should be able to configure a component when it is created <br>
+To generate a functional component in VSCode: <em>rcc</em>
+<br>
 
 <br>
 <br>
