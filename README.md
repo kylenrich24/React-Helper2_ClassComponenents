@@ -28,7 +28,7 @@ To generate a functional component in VSCode: <em>rcc</em>
 import React, {Components} from 'react'
 
 class SeasonDisplay extends Components {
- render() {   // the only requirement of a class function is to have a render method
+ render() {                              // the only requirement of a class function is to have a render method
   return (
    <div></div>
    )
