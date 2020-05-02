@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/REPOSITORY_NAME/static/css/main.450fd0e5.chunk.css",
-    "main.js": "/REPOSITORY_NAME/static/js/main.63301b8c.chunk.js",
-    "main.js.map": "/REPOSITORY_NAME/static/js/main.63301b8c.chunk.js.map",
-    "runtime-main.js": "/REPOSITORY_NAME/static/js/runtime-main.47cdd3dd.js",
-    "runtime-main.js.map": "/REPOSITORY_NAME/static/js/runtime-main.47cdd3dd.js.map",
-    "static/js/2.8d0c7e50.chunk.js": "/REPOSITORY_NAME/static/js/2.8d0c7e50.chunk.js",
-    "static/js/2.8d0c7e50.chunk.js.map": "/REPOSITORY_NAME/static/js/2.8d0c7e50.chunk.js.map",
-    "index.html": "/REPOSITORY_NAME/index.html",
-    "precache-manifest.1bf75055ebe8eb58cedd659b71cc6a30.js": "/REPOSITORY_NAME/precache-manifest.1bf75055ebe8eb58cedd659b71cc6a30.js",
-    "service-worker.js": "/REPOSITORY_NAME/service-worker.js",
-    "static/css/main.450fd0e5.chunk.css.map": "/REPOSITORY_NAME/static/css/main.450fd0e5.chunk.css.map",
-    "static/js/2.8d0c7e50.chunk.js.LICENSE.txt": "/REPOSITORY_NAME/static/js/2.8d0c7e50.chunk.js.LICENSE.txt"
+    "main.css": "/React-Helper3_ClassComponenents/static/css/main.450fd0e5.chunk.css",
+    "main.js": "/React-Helper3_ClassComponenents/static/js/main.63301b8c.chunk.js",
+    "main.js.map": "/React-Helper3_ClassComponenents/static/js/main.63301b8c.chunk.js.map",
+    "runtime-main.js": "/React-Helper3_ClassComponenents/static/js/runtime-main.a07b8c7f.js",
+    "runtime-main.js.map": "/React-Helper3_ClassComponenents/static/js/runtime-main.a07b8c7f.js.map",
+    "static/js/2.8d0c7e50.chunk.js": "/React-Helper3_ClassComponenents/static/js/2.8d0c7e50.chunk.js",
+    "static/js/2.8d0c7e50.chunk.js.map": "/React-Helper3_ClassComponenents/static/js/2.8d0c7e50.chunk.js.map",
+    "index.html": "/React-Helper3_ClassComponenents/index.html",
+    "precache-manifest.90ff9ac8f3b7883e1c7e0b65744804d1.js": "/React-Helper3_ClassComponenents/precache-manifest.90ff9ac8f3b7883e1c7e0b65744804d1.js",
+    "service-worker.js": "/React-Helper3_ClassComponenents/service-worker.js",
+    "static/css/main.450fd0e5.chunk.css.map": "/React-Helper3_ClassComponenents/static/css/main.450fd0e5.chunk.css.map",
+    "static/js/2.8d0c7e50.chunk.js.LICENSE.txt": "/React-Helper3_ClassComponenents/static/js/2.8d0c7e50.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.47cdd3dd.js",
+    "static/js/runtime-main.a07b8c7f.js",
     "static/js/2.8d0c7e50.chunk.js",
     "static/css/main.450fd0e5.chunk.css",
     "static/js/main.63301b8c.chunk.js"
