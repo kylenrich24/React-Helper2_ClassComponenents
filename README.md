@@ -85,4 +85,24 @@ class SeasonDisplay extends Component {
 <br>
 <img src="https://cdn-media-1.freecodecamp.org/images/NpWCjYyzfnJkn7rXwDmyWwK2DqInFJu6-g1O" height=400 width=300>
 <br>
+<br>
+
+```jsx
+class App extends Component{
+ 
+ state={ lat: null}                                        // this is an easier alternative for initializing state; Babel
+ 
+ componentDidMount(){                                      // we take care of data loading here
+  getLocation(
+   position => this.setState ({lat: position.latitude})    // changing our state
+  )
+ }
+ 
+ render() {
+  return <div>{this.state.lat}</div>
+ } 
+}
+
+export default App
+```
 
