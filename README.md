@@ -47,6 +47,7 @@ export default SeasonDisplay
 &nbsp;🌀&nbsp; State must be initialized when a component is created <br>
 &nbsp;🌀&nbsp; State can only be updated with setState()<br>
 <br>
+<br>
 
 using state
 
@@ -55,6 +56,10 @@ class SeasonDisplay extends Component {
  constructor(props) {                // we are overwriting our parents constructor
   super(props)                       // retaining our parents constructor and just adding to it
   this.state = {lat: null }          // our state; initializing it to null because we're expecting a number 
+  
+  getLocation(
+   position => this.setState ({lat: position.latitude})    // changing our state
+  )
  }
  
  render() {                     // required for a class component
