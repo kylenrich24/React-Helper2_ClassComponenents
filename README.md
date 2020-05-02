@@ -40,10 +40,26 @@ export default SeasonDisplay
 
 <br>
 <br>
-<h2>State</h2>
+<h2>🌀 State</h2>
 <br>
 &nbsp;🌀&nbsp; JS object that contains data relevant to a component <br>
 &nbsp;🌀&nbsp; Updating state on a component causes the component to rerender <br>
 &nbsp;🌀&nbsp; State must be initialized when a component is created <br>
 &nbsp;🌀&nbsp; State can only be updated with setState()<br>
+<br>
+
+using state
+
+```jsx
+class SeasonDisplay extends Component {
+ constructor(props) {                // we are overwriting our parents constructor
+  super(props)                       // retaining our parents constructor and just adding to it
+  this.state = {lat: null }          // our state; initializing it to null because we're expecting a number 
+ }
+ 
+ render() {                     // required for a class component
+  return JSX
+ }
+}
+```
 
