@@ -73,5 +73,8 @@ class SeasonDisplay extends Component {
 <h2>🌀 Lifecycle Methods</h2>
 <br>
 <p>These are methods in our Class-Based Components. React automatically call them at certain points during a components lifecycle. A component's lifecycle goes like this: gets created, shows up in DOM, rerender and in theory gets removed in the DOM altogeher </p>
+<p>For instance after render(), componentDidMount() gets called one time after our component gets rendered in our screen. We can put some codes here for our component setup.</p>
 <br>
 <img src="https://cdn-media-1.freecodecamp.org/images/NpWCjYyzfnJkn7rXwDmyWwK2DqInFJu6-g1O" height=400 width=300>
+<br>
+
