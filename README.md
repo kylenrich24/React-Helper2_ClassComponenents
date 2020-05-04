@@ -122,6 +122,6 @@ Getting a DOM element in React
  render() {
   return (
    <img ref={this.imageRef} />             // we pass the createf ref to <img />; we get the <img />
-  )
+  )                                        // use this.imageRef
  }
 ```
