@@ -106,3 +106,22 @@ class App extends Component{
 export default App
 ```
 
+<br>
+<h2>Ref System</h2>
+<br>
+
+Getting a DOM element in React
+
+```jsx
+ constructor(props) {                       // we create the ref in the constructor
+    super(props);
+
+    this.imageRef = React.createRef();
+  }
+ 
+ render() {
+  return (
+   <img ref={this.imageRef} />             // we pass the createf ref to <img />; we get the <img />
+  )
+ }
+```
